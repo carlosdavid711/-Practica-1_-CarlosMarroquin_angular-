@@ -1,0 +1,40 @@
+
+#contenedor{
+    background-color: rgb(250, 250, 250);
+}
+#imag img{
+    height: 100px;
+    width: 110px;
+    display: block;
+    margin: auto;
+    transition: width 4s, border-radius 1s;
+}
+#imag video{
+    height: 250px;
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+#ultimo{
+    text-align: center;
+    border: 1px solid black;
+}
+#acerca{
+    border: 1px solid black;
+}
+#boton{
+    border: 1px solid black;
+}
+#nombre{
+    border: 1px solid black;
+    text-align: center;
+}
+#c1{
+    border: 1px solid black;
+}
+#c2{
+    border: 1px solid black;
+}
+#imag{
+    border: 1px solid black;
+}
